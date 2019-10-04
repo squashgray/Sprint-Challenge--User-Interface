@@ -206,22 +206,41 @@ header nav a {
     margin-top: 20px;
 }
 .strategy {
-    border-bottom: 1px dotted grey;
     display: flex;
-    
-    justify-content: space-between;
     padding-bottom: 20px;
     margin-top: 20px;
 }
 
 .places {
     display: flex;
-    border-bottom: 1px dotted grey;
     margin-bottom: 20px; 
     padding-bottom: 20px;
-    margin-top: 20px;
+    margin-top: 30px;
     
 
+}
+
+.right {
+    width: 80%;
+    border-bottom: 1px dotted grey;
+    margin-left: 15px;
+    padding-bottom: 20px; 
+    margin-right: 10px;
+
+}
+.left {
+    width: 80%;
+    border-bottom: 1px dotted grey;
+    margin-left: 10px;
+    margin-right: 25px;
+    padding-bottom: 20px; 
+
+}
+.right h2 {
+    margin-top: 10px;
+}
+.left h2 {
+    margin-top: 10px;
 }
 
 .bot-content {
