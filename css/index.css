@@ -235,7 +235,7 @@ footer nav a {
 /* NAV */
 
 nav {
-  width: 100%;
+  width: 95%;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -335,3 +335,8 @@ button {
   width: 30%;
   padding: 8px 0px 8px 0px;
 }
+button:hover {
+    background: lightgrey;
+}
+
+  
