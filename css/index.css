@@ -163,6 +163,8 @@ header nav a {
 
 }
 
+/* INDEX PAGE */
+
 .box1 {
     background: teal;
 }
@@ -194,3 +196,46 @@ header nav a {
 .box10  {
     background: dodgerblue;
 }
+
+/* ABOUT PAGE */
+
+.about {
+    border-bottom: 1px dotted black;
+    padding-bottom: 20px; 
+    padding-left: 20px;
+    margin-top: 20px;
+}
+.strategy {
+    border-bottom: 1px dotted grey;
+    display: flex;
+    
+    justify-content: space-between;
+    padding-bottom: 20px;
+    margin-top: 20px;
+}
+
+.places {
+    display: flex;
+    border-bottom: 1px dotted grey;
+    margin-bottom: 20px; 
+    padding-bottom: 20px;
+    margin-top: 20px;
+    
+
+}
+
+.bot-content {
+    margin-bottom: 20px;
+    padding-bottom: 20px; 
+    padding-left: 20px;
+
+}
+button {
+    border-radius: 10px;
+    background: white;
+    border: 2px solid black;
+    margin-top: 20px;
+    width: 30%;
+    padding: 8px 0px 8px 0px;
+}
+
